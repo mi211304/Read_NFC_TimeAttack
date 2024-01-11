@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NFC test4</string>
+    <string name="start_button">スタート</string>
+    <string name="stop_button">ストップ</string>
+    <string name="timer" />
+    <string name="reset_button">リセット</string>
+    <string name="seigo">正誤判定</string>
+    <string name="reset_print">reset</string>
+    <string name="reset_text2" />
+</resources>
